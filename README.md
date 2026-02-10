@@ -5,6 +5,8 @@ A desktop application for predicting tide levels at known tidal stations using t
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
+![Tidal Predictor Screenshot](screenshot.png)
+
 ## Download
 
 **Windows users:** Download the latest [TidalPredictor.exe](https://github.com/ELPYi/tidal-predictor/releases/latest) from the Releases page. No Python installation required -- just double-click and run.
