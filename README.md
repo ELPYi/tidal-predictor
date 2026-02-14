@@ -3,7 +3,7 @@
 A desktop application for predicting tide levels at known tidal stations using the harmonic method.
 
 ![Python](https://img.shields.io/badge/Python-3.10%2B-blue)
-![License](https://img.shields.io/badge/License-MIT-green)
+![License](https://img.shields.io/badge/License-All%20Rights%20Reserved-red)
 
 ![Tidal Predictor Screenshot](screenshot.png)
 
@@ -95,3 +95,7 @@ tidal_predictor/
     malaysia_stations.json  -- Preset Malaysian port data
     profiles/               -- Saved station profiles (user data)
 ```
+
+## License
+
+All rights reserved. This code is provided for viewing purposes only. You may not copy, modify, distribute, or use this code without explicit written permission from the author.
